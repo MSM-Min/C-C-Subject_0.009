@@ -1,3 +1,5 @@
+// file: main.c
+
 #include "shape.h"
 #include <iostream>
 #include <cstdlib>
@@ -78,6 +80,6 @@ int main(int argc, char** argv){
 	
 	return 0;
 }
-
+//file end
 
 
